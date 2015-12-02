@@ -1,0 +1,8 @@
+﻿Liste des sondes:
+
+
+ROM = 28 FF 18 41 65 15 03 04 = salon / bar
+ROM = 28 FF 4B BD 64 15 01 AB = Arduino
+ROM = 28 FF 5F 7F 65 15 02 BF = tete de lit
+ROM = 28 FF ED BB 64 15 01 0D = cave
+
